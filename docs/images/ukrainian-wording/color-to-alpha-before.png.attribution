@@ -1,0 +1,8 @@
+asset:        color-to-alpha-before.png
+title:        Ukrainian Color to Alpha dialog before the wording review
+author:       dmatviichuk
+source:       original work
+license:      MIT OR Apache-2.0
+license-file: LICENSE-MIT
+added:        2026-10-09 by dmatviichuk
+notes:        PhotoCraft's headless snapshot example at 1440x900, Ukrainian UI, synthetic white document. UI assets and embedded fonts are attributed in the repository; no external media or proprietary fonts.
